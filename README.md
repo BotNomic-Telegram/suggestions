@@ -22,4 +22,4 @@ Suggestions about BotNomicBot are welcomed here, Create a PR for adding your sug
   
   
   
-  #### [Track Suggestion likes and popularity here](t.me/BotNomicLibrary)
+  #### [Track Suggestion likes and popularity here](https://t.me/BotNomicLibrary)
