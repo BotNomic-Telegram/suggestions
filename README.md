@@ -8,7 +8,7 @@ Suggestions about BotNomicBot are welcomed here, Create a PR for adding your sug
   <br> 3. Create a Pull request with proper title and description of what you'd add or update.
   </blockquote>
   
-  > Please see [Demo](./demo) of Creating a suggestion before creating one.
+  > Please see [Demo](./demo.md) of Creating a suggestion before creating one.
 
 
 
