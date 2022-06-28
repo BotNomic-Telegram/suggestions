@@ -1,25 +1,14 @@
 # Suggestions 
 
-
-
 | INDEX: 1|
 | --|
-| BY: 1234567890 (TGID) |
-
-
-*SUGGESTION: This is just a demo suggestion* 
-
+| BY: 5003157178 (TGID) |
+*SUGGESTION: Credits system must be removed and Affiliate system<br> and spaces system must be introduced in bot.* 
 <!--- Draw a line when you end --->
-
 <hr>
 
-| INDEX: 2|
-| --|
-| BY: 1234567890 (TGID) |
 
-*SUGGESTION: This is just a demo suggestion* 
 
-<!--- Draw a line when you end --->
 
-<hr>
+
 
